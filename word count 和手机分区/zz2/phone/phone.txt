@@ -1,0 +1,10 @@
+xiaomi 500
+huawei 1000
+hongmi 500
+huawei 50000
+hongmi 5000
+xiaomi 6000
+meizu 600
+meizu 6015
+vivo 600
+oppo 600
